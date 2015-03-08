@@ -11,3 +11,5 @@ git clone git@github.com:rtheunissen/kings.git
 ant run
 ```
 
+![Screenshot](http://i.imgur.com/rezO3bn.png)
+
